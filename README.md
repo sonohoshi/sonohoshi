@@ -12,7 +12,7 @@
 
 
 ## 📃 I'm currently learning
-> `Modearn C#` (8.x)  
-> `Unity Enguine` (C# 7.x)
+> `Modern C#` (8.x)  
+> `Unity Engine` (C# 7.x)
 
 [![Github stats Of Kim SM.](https://github-readme-stats.vercel.app/api?username=sonohoshi)](https://github.com/anuraghazra/github-readme-stats)
