@@ -7,12 +7,12 @@
 
 ## 🏫 I'm currently studying on
 
-> `Daedeok Software Meister Highschool` (DSM)  
-> `Team.QSS` (School club about Game Developing)  
+> Daedeok Software Meister Highschool (DSM)  
+> Team.QSS (School club about Game Developing)  
 
 
 ## 📃 I'm currently learning
 > `Modern C#` (8.x)  
 > `Unity Engine` (C# 7.x)
 
-[![Github stats Of Kim SM.](https://github-readme-stats.vercel.app/api?username=sonohoshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats Of Kim SM.](https://github-readme-stats.vercel.app/api?username=sonohoshi&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
