@@ -8,7 +8,7 @@
 ## 🏫 I'm currently studying on
 
 > Daedeok Software Meister Highschool (DSM)  
-> Team.QSS (School club about Game Developing)  
+> Team.QSS (School club about Game Development)  
 
 
 ## 📃 I'm currently learning
