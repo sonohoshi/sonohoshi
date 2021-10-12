@@ -3,7 +3,7 @@
 ### 😌 Welcome to my Github profile.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonohoshi)](https://github.com/sonohoshi)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007513905040/)](https://www.facebook.com/profile.php?id=100007513905040)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yd111544@gmail.com)](mailto:yd111544@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.sonohoshi@gmail.com)](mailto:dev.sonohoshi@gmail.com)  
 
 ## 🏫 I'm currently studying on
 
