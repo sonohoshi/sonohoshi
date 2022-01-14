@@ -13,7 +13,6 @@
 ## 📃 I'm currently learning
 > `Modern C#` (~.Net core 5)  
 > `Unity Engine` (C# 8.x)  
-> `Modern C++ & STL` (~C++20)
 
 [![Github stats Of Kim SM.](https://github-readme-stats.vercel.app/api?username=sonohoshi&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonohoshi&layout=compact&hide=SCSS,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
