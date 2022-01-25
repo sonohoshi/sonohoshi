@@ -11,7 +11,7 @@
 
 
 ## 📃 I'm currently learning
-> `Modern C#` (~.Net core 5)  
+> `Modern C#` (~.Net core 6)  
 > `Unity Engine` (C# 8.x)  
 
 [![Github stats Of Kim SM.](https://github-readme-stats.vercel.app/api?username=sonohoshi&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
