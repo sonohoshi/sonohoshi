@@ -1,4 +1,4 @@
-# Kim SM. a.k.a. sonohoshi
+# kimsm a.k.a. sonohoshi
 
 ### 😌 Welcome to my Github profile.
 
