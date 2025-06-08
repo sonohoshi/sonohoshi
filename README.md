@@ -10,10 +10,9 @@ I am game client engineer, using Unity. And I interested in blockchain, backend,
 Below is my SNS and contact information.  
 아래는 저의 sns와 연락처입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonohoshi)](https://github.com/sonohoshi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.sonohoshi@gmail.com)](mailto:dev.sonohoshi@gmail.com)  
 
 ## 💻 I'm currently working on
 
-> [planetarium 📦🖇📦 🎮](https://github.com/planetarium) `as a Game client engineer`
+저는 백수입니다. 새 일자리를 구하고 있습니다. 
 
