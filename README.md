@@ -14,5 +14,5 @@ Below is my SNS and contact information.
 
 ## 💻 I'm currently working on
 
-저는 백수입니다. 새 일자리를 구하고 있습니다. 
+2025년 11월부터 새 직장에 다니는 중입니다. 메롱
 
