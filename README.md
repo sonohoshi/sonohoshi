@@ -14,5 +14,4 @@ Below is my SNS and contact information.
 
 ## 💻 I'm currently working on
 
-2025년 11월부터 새 직장에 다니는 중입니다. 메롱
-
+저는 직장이 없습니다. 유니티 프로그래머에게 일거리와 돈을 주실 고용주를 구합니다. 
